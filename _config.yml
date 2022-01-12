@@ -25,7 +25,7 @@ title:                 My Github Blog
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  안녕하세요  
+  안녕하세요   
 
 # A shorter description for the sidebar.
 tagline:               Change `tagline` in `_config.yml`
