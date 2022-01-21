@@ -20,18 +20,18 @@ url:                   https://city1616.github.io
 lang:                  ko-KR, en-US 
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 My Github Blog
+title:                 승우의 첫번째 깃블로그
  
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  안녕하세요  
+  안녕하세요. AI 개발자를 꿈꾸는 대학생입니다.
 
 # A shorter description for the sidebar. 
-tagline:               Change `tagline` in `_config.yml` 
+tagline:               첫 GitBlog
  
 # A list of keywords for your blog 
-keywords:              []  
+keywords:              [AI, git, gitblog, data science]  
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -41,19 +41,19 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                SeungWoo Mun
+  email:               city1616@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
   - title:             About
     url:               /about/
+  - title:             Example1
+    url:               /example1/
+  - title:             Example2
+    url:               /example2/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -79,7 +79,10 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
+# 로컬에서 실행할 때 아래 주석 풀기
 # theme: jekyll-theme-hydejack
+
+# GitHub Pages에 업로드할 때 아래 주석 풀기
 remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 
 
