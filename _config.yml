@@ -26,7 +26,7 @@ title:                 My Github Blog
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
   안녕하세요  
-    
+
 # A shorter description for the sidebar. 
 tagline:               Change `tagline` in `_config.yml` 
  
@@ -79,7 +79,7 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
+# theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 
 
