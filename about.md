@@ -10,8 +10,8 @@ redirect_from:
 
 # About
 
-<!--author-->
-
+<!--author--> 
+ 
 ## Hydejack
 
 A boutique Jekyll theme for hackers, nerds, and academics.
