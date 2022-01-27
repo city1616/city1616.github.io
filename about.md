@@ -12,7 +12,7 @@ redirect_from:
 
 <!--author--> 
   
-## Hydejack
+## Hydejack 
 
 A boutique Jekyll theme for hackers, nerds, and academics.
 {:.lead}
