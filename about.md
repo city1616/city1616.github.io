@@ -23,7 +23,7 @@ A boutique Jekyll theme for hackers, nerds, and academics.
 ![Screenshot](assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
 
 Hydejack's cover page on a variety of screen sizes.
-{:.figcaption}
+{:.figcaption}  
 
  
 **Hydejack** is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress. 
