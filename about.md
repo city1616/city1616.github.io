@@ -4,18 +4,18 @@ image: /assets/img/blog/hydejack-9.jpg
 description: >
   인공지능을 공부하고 있는 대학생입니다.
 hide_description: true
-redirect_from:
+redirect_from: 
   - /download/
 ---
 
 # About
-
+ 
 <!--author--> 
   
 ## Hydejack 
  
 A boutique Jekyll theme for hackers, nerds, and academics.
-{:.lead}
+{:.lead} 
 
 1. this list will be replaced by the toc
 {:toc .large-only} 
