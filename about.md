@@ -11,11 +11,11 @@ redirect_from:
 # About
   
 <!--author--> 
-  
+
 ## Hydejack 
  
 A boutique Jekyll theme for hackers, nerds, and academics.
-{:.lead} 
+{:.lead}
 
 1. this list will be replaced by the toc 
 {:toc .large-only} 
