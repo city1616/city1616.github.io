@@ -16,7 +16,7 @@ redirect_from:
  
 A boutique Jekyll theme for hackers, nerds, and academics.
 {:.lead}
-
+ 
 1. this list will be replaced by the toc
 {:toc .large-only} 
 
