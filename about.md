@@ -32,7 +32,7 @@ It includes a blog that is suitable for both prose and technical documentation, 
 
 > Your complete presence on the web — A [blog], [portfolio], and [resume].
 {:.lead}
-
+ 
 
 ## A Personal Site That Won't Disappear 
 
