@@ -43,7 +43,7 @@ Hydejack is all static sites. _HTML_. All you need is a web server --- any web s
 ## Download
 
 {% include table.md %}
-
+ 
 
 ## A Free Blogging Theme
 **Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
