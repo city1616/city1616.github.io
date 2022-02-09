@@ -24,7 +24,7 @@ A boutique Jekyll theme for hackers, nerds, and academics.
   
 Hydejack's cover page on a variety of screen sizes.
 {:.figcaption}    
- 
+  
  
 **Hydejack** is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress. 
  
