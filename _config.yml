@@ -87,10 +87,10 @@ paginate_path:         /:num/
 # ---------------------------------------------------------------------------------------
 
 # 로컬에서 실행할 때 아래 주석 풀기
-theme: jekyll-theme-hydejack
+# theme: jekyll-theme-hydejack
 
 # GitHub Pages에 업로드할 때 아래 주석 풀기
-# remote_theme: hydecorp/hydejack@v9.0.0-rc.6
+remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 
 
 # Customizaton
