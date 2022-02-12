@@ -178,6 +178,11 @@ under {
     padding: 0 1.25rem;
   }
 }
+
 .submenu.menu-wrapper.hide{
   display: none;
+}
+
+a.external::after, a::after {
+  display: none !important; 
 }
