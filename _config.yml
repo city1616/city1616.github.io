@@ -89,7 +89,7 @@ paginate_path:         /:num/
 # ---------------------------------------------------------------------------------------
  
 # 로컬에서 실행할 때 아래 주석 풀기
-# theme: jekyll-theme-hydejack
+# theme: jekyll-theme-hydejack 
 
 # GitHub Pages에 업로드할 때 아래 주석 풀기  
 remote_theme: hydecorp/hydejack@v9.0.0-rc.6
@@ -97,12 +97,12 @@ remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 # Customizaton
 # ---------------------------------------------------------------------------------------- 
      
-# Sidebar image and theme color of the site.
+# Sidebar image and theme color of the site. 
 accent_image:          /assets/img/sidebar-bg.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag, 
-# which changes the background color of the browser UI in certain browsers.   
+# which changes the background color of the browser UI in certain browsers.    
 # Defaults to `accent_color`.
 theme_color:           rgb(25,55,71)
 
