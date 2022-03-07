@@ -94,8 +94,8 @@ paginate_path:         /:num/
 # GitHub Pages에 업로드할 때 아래 주석 풀기
 remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 
-# Customizaton
-# ----------------------------------------------------------------------------------------  
+# Customizaton 
+# ----------------------------------------------------------------------------------------
      
 # Sidebar image and theme color of the site. 
 accent_image:          /assets/img/sidebar-bg.jpg
